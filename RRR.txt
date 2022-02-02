@@ -1,3 +1,0 @@
-this is the srikanth nadendla 
-create s3 bucket and upload objects 
-create vpc and one have public subnet and one have private subnet
